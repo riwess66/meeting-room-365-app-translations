@@ -6,7 +6,7 @@
     "insufficient_time_to_reserve": "Onvoldoende tijd om te reserveren",
     "you_can_reserve_this_room_using_outlook": "U kunt deze kamer via Outlook reserveren",
     "available": "Beschikbaar",
-    "occupied": "Bewoond",
+    "occupied": "Bezet",
     "reserve": "Reserve",
     "reserving_room": "Reserveringsruimte",
     "tap_to_cancel": "Klik op annuleren",
@@ -21,6 +21,6 @@
     "m60": "60",
     "cancelling": "Annulering..",
     "private_appointment": "Particuliere benoeming",
-    "daysOfWeek": ["Zondag","maandag","dinsdag","woensdag","donderdag","vrijdag","zaterdag"],
-    "months": ["Januari", "februari", "maart", "april", "mei", "juni", "juli", "augustus", "september", "oktober", "november", "december"]
+    "daysOfWeek": ["zondag","maandag","dinsdag","woensdag","donderdag","vrijdag","zaterdag"],
+    "months": ["anuari", "februari", "maart", "april", "mei", "juni", "juli", "augustus", "september", "oktober", "november", "december"]
 }
